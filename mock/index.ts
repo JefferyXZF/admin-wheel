@@ -1,4 +1,1 @@
-
-export const mockResult = () => {
-  
-}
+export const mockResult = () => {}

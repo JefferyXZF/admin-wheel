@@ -1,4 +1,1 @@
-
-export const directives = {
-  
-}
+export const directives = {}

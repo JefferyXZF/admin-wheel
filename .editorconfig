@@ -1,0 +1,22 @@
+# Editor configuration, see http://editorconfig.org
+# VSCode 使用 EditorConfig 需要去插件市场下载插件 EditorConfig VS Code
+
+# 表示是最顶层的 EditorConfig 配置文件
+root = true
+
+# 表示所有文件适用
+[*]
+#缩进风格：空格（tab | space）
+indent_style = space
+#缩进大小2
+indent_size = 2
+#换行符lf
+end_of_line = lf
+#字符集utf-8
+charset = utf-8
+#是否删除行尾的空格
+trim_trailing_whitespace = true
+#是否在文件的最后插入一个空行
+insert_final_newline = true
+#单行最大长度(与ESLint冲突)
+# max_line_length = 100

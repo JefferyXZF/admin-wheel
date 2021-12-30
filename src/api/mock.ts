@@ -1,4 +1,1 @@
-
-export const mapJson = () => {
-  
-}
+export const mapJson = () => {}
