@@ -1,5 +1,6 @@
 # Editor configuration, see http://editorconfig.org
 # VSCode 使用 EditorConfig 需要去插件市场下载插件 EditorConfig VS Code
+# JetBrains 系列 （WebStorm、IntelliJ IDEA）则不用额外安装插件，可直接使用 EditorConfig 配置。
 
 # 表示是最顶层的 EditorConfig 配置文件
 root = true
